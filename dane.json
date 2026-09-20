@@ -1,0 +1,16 @@
+{
+  "nazwa": "Przykład",
+  "wersja": 1,
+  "dane": [
+    {
+      "id": 1,
+      "imie": "Jan",
+      "wiek": 25
+    },
+    {
+      "id": 2,
+      "imie": "Anna",
+      "wiek": 30
+    }
+  ]
+}
